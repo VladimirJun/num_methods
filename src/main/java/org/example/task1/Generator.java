@@ -1,7 +1,7 @@
-package org.example;
+package org.example.task1;
 
-public class Gen{
-    public Gen() {
+public class Generator {
+    public Generator() {
     }
 
     public void printMatrix(double[][] a, int n) {
